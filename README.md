@@ -1,2 +1,5 @@
 # hello-world
-This is my first project
+
+Hi Humans,
+
+This is my first try at using the commit command.
